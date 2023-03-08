@@ -1,5 +1,4 @@
 
-<h1 align="center">Default</h1>
 
 ## Descrição do Projeto
 <p align="center"> Uma API feita ASP.NET Core Web API com objetivo de criar uma aplicação padrão com boas praticas e Design Patters. <br>
